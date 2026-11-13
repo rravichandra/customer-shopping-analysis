@@ -38,6 +38,10 @@ Add the nine source CSV files to `data/raw/`. Keep the original files unchanged.
 
 _Add validated findings here after running the analysis._
 
+## 📊 Revenue Analysis Visualization
+
+![Top 10 Product Categories by Revenue](images/top10_revenue.png)
+
 ## Recommendations
 
 _Add recommendations supported by the analysis results here._
